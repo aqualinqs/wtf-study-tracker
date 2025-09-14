@@ -1,0 +1,6 @@
+Activity,Type,Related Goal,Expected Output,Expected Outcome,Start Date,End Date,Duration (hrs),Status,Progress %,Actual Output Link,Impact Metric Percent
+Intro to Python Tutorial,Tutorial,Build Python & Data Cleaning Skills,Notebook with basics,Understand syntax,09/01/2025,09/02/2025,2.0,Done,100.0,https://github.com/aqualinqs/python-basics,25.0
+Data Cleaning Mini-Project,Project,Build Python & Data Cleaning Skills,Jupyter notebook,Hands-on practice,09/05/2025,09/07/2025,5.0,In Progress,50.0,,0.0
+SQL Basics,Tutorial,SQL & Database Management,Sample queries,Learn CRUD operations,10/18/2025,10/19/2025,3.0,Planned,0.0,,0.0
+,,,,,,,,Not Started,,,
+,,,,,,,,Completed,,,
