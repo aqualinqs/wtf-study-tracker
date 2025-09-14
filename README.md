@@ -9,9 +9,7 @@ This repository provides all information related to my streamlit based study vis
 An **interactive Streamlit dashboard** documenting my one-year journey in the **[Women Techsters Fellowship Class of 2026](https://tech4dev.com/womentechsters/)** (Data Science & Engineering track).
 
 👉 **Streamlit Cloud live vision board link**:
-```
 [![Open in Streamlit](https://wtf-study-tracker.streamlit.app/)
-```
 
 This project combines:
 
