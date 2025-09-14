@@ -10,7 +10,7 @@ An **interactive Streamlit dashboard** documenting my one-year journey in the **
 
 👉 **Streamlit Cloud live vision board link**:
 ```
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-link.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://wtf-study-tracker.streamlit.app/)
 ```
 
 This project combines:
