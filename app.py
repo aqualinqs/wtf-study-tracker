@@ -121,7 +121,7 @@ st.markdown(theme_css, unsafe_allow_html=True)
 # st.markdown(custom_theme, unsafe_allow_html=True)
 
 # --- ADD LOGO ---
-logo_path = "WTF_LOGO.PNG"
+logo_path = "assets/WTF_LOGO.PNG"
 if os.path.exists(logo_path):
     st.sidebar.image(logo_path, width='content')
 else:
