@@ -10,14 +10,14 @@ An **interactive Streamlit dashboard** documenting my one-year journey in the **
 
 👉 **Streamlit Cloud live vision board link**:
 ```
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://wtf-study-tracker.streamlit.app/)
+[![Open in Streamlit](https://wtf-study-tracker.streamlit.app/)
 ```
 
 This project combines:
 
 * 🎯 A **Vision Board App** to set goals, track progress, and visualize achievements.
 * 📔 A **Storybook** documenting lessons, challenges, impact stories, and growth.
-* ✨ A fully branded, interactive interface styled with the **Women Techsters colors**.
+* ✨ A fully branded, interactive interface styled with the **Tech4dev Women Techsters colors**.
 
 ---
 
@@ -55,6 +55,7 @@ This project combines:
  ┣ 📑 requirements.txt
  ┣ 📂 assets                # media files 
  ┣ 📂 data
+   ┣ WTF_LOGO.PNG
  ┃ ┣ goals.csv
  ┃ ┣ activities.csv
  ┃ ┣ weekly.csv
@@ -124,22 +125,21 @@ Feel free to fork this repo and submit a pull request.
 
 ---
 
-## 📌 Author
-
-👩‍💻 Created By **Shammah Agyare**
-
 * WTFC 2026 Fellow – *Data Science & Engineering Track*
-* [GitHub](https://github.com/msagyare) | [Medium](https://medium.com/@msagyare) | [YouTube](https://youtube.com/)
+* [GitHub]([https://github.com/msagyare](https://github.com/aqualinqs/wtf-study-tracker) | [Medium Blog](https://medium.com/@aqualinqsdigest) | [YouTube Channel](https://www.youtube.com/@akuashammah7185/shorts)
 
 ---
 
 ## 🎉 Acknowledgments
 
 * [Tech4Dev](https://tech4dev.com/) – Women Techsters Fellowship
-* My mentors, peers, and the growing Women in Tech community 💜
+* My instructors, mentors, peers, and the growing Women in Tech community 💜
 
 ---
+## 📌 Author
 
+👩‍💻 Created with 💖 by 
+  **Shammah Akua Agyare**
 
 
 
